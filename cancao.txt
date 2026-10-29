@@ -21,3 +21,7 @@ Ano passado eu morri
 Mas esse ano eu não morro
 Ano passado eu morri
 Mas esse ano eu não morro
+No Git a gente se encontra,
+Cada branch um caminho seu;
+Se o merge der conflito,
+Quem resolve sou eu.
